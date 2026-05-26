@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "routerfonnect",
+        "uuid": 8338788,
+        "checksum": "6q98qs"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
